@@ -12,15 +12,15 @@ body {
     width: 80%;
     max-width: 600px;
     margin: auto;
-    background: #fafafa;
-    color: #333;
+    background: #222222;
+    color: #FFFFFF;
 }
 
 /*---------------- TYPOGRAPHY ---------------*/
 
 h1, h2, h3 {
     font-weight: normal;
-    color: #8F0040;
+    color: #E7625E;
     text-align: center;
 }
 
@@ -44,7 +44,7 @@ blockquote {
    font-size: 1.414em;
    hanging-punctuation: first;
    text-indent: -0.44em;
-   color:  #8F0040;
+   color:  #E7625E;
 }
 
 blockquote cite {
