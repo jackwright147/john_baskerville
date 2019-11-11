@@ -10,7 +10,7 @@ https://github.com/jackwright147/john_baskerville/blob/master/baskerville.html
 Added CSS.\
 https://github.com/jackwright147/john_baskerville/blob/master/baskerville2.html
 
-#History of Type
+# History of Type
 
 - Version 1 \
 28 October 2019\
