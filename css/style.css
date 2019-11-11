@@ -68,12 +68,6 @@ blockquote cite {
     color: #333
 }
 
-.leader {
-  font-family: mrs-eaves, serif;
-  text-transform: uppercase;
-  font-variant-numeric: oldstyle-nums;
-}
-
 /*-------------------- FOOTER ---------------------*/
 footer {
     text-align: center;
