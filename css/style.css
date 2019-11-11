@@ -8,6 +8,11 @@
 }
 
 /*---------- MAIN STYLING ----------*/
+
+html {
+  scroll-behavior: smooth;
+}
+
 body {
     width: 80%;
     max-width: 700px;
@@ -15,10 +20,6 @@ body {
     background: #222222;
     color: #FFFFFF;
     font-family: 'Libre Baskerville', serif;
-}
-
-html {
-  scroll-behavior: smooth;
 }
 
 /*---------------- TYPOGRAPHY ---------------*/
