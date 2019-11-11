@@ -17,6 +17,10 @@ body {
     font-family: 'Libre Baskerville', serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 /*---------------- TYPOGRAPHY ---------------*/
 
 h1, h2, h3 {
