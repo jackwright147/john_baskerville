@@ -61,6 +61,7 @@ blockquote {
 }
 a {
   color: #E7625E;
+  text-decoration: none;
 }
 
 header h3 {
