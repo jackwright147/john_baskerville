@@ -25,6 +25,11 @@ h1, h2, h3 {
     text-align: center;
 }
 
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
 p, blockquote {
     margin-bottom: 1.5em;
     line-height: 1.4;
