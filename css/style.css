@@ -35,7 +35,7 @@ li {
 }
 
 p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Noto Serif TC', serif;
 }
 
 header p {
@@ -43,20 +43,27 @@ header p {
 }
 
 p, blockquote {
-    margin-bottom: 1.5em;
-    line-height: 1.5;
+  margin-bottom: 1.5em;
+  line-height: 1.5;
 }
 
-h1 {font-size: 2.827em;
-    margin-top: 2em;
-    margin-bottom: 0.1em;
+h1 {
+  font-size: 2.827em;
+  margin-top: 2em;
+  margin-bottom: 0.1em;
+  font-family: 'Cinzel', serif;
 }
 
-h2 {font-size: 1.999em;
-margin: 3em 0 1em 0}
+h2 {
+  font-size: 1.999em;
+  margin-bottom: 0.6em;
+  font-family: 'Spectral SC', serif;
+}
 
-h3 {font-size: 1.414em;
-margin-bottom: 1.5em;}
+h3 {
+  font-size: 1.414em;
+  margin-bottom: 1.5em;
+}
 
 blockquote {
    font-size: 1.414em;
