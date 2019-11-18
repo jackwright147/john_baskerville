@@ -24,3 +24,6 @@ Added links and navs
 
 - [Version 2](https://github.com/jackwright147/john_baskerville/blob/master/history2.html)
 10 November 2019
+
+- [Version 2](https://github.com/jackwright147/john_baskerville/blob/master/history3.html)
+11 November 2019
