@@ -1,33 +1,30 @@
 /*-------- CSS Reset ------*/
-
-*{
-    padding: 0;
-    margin: 0;
-    font-size: 100%;
-    line-height: 1em;
+* {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  line-height: 1em;
 }
 
 /*---------- MAIN STYLING ----------*/
-
 html {
   scroll-behavior: smooth;
 }
 
 body {
-    width: 80%;
-    max-width: 700px;
-    margin: auto;
-    background: #222222;
-    color: #FFFFFF;
-    font-family: 'Libre Baskerville', serif;
+  width: 80%;
+  max-width: 700px;
+  margin: auto;
+  background: #222222;
+  color: #FFFFFF;
+  font-family: 'Libre Baskerville', serif;
 }
 
 /*---------------- TYPOGRAPHY ---------------*/
-
 h1, h2, h3 {
-    font-weight: normal;
-    color: #E7625E;
-    text-align: center;
+  font-weight: normal;
+  color: #E7625E;
+  text-align: center;
 }
 
 li {
@@ -66,14 +63,10 @@ h3 {
 }
 
 blockquote {
-   font-size: 1.414em;
-   hanging-punctuation: first;
-   text-indent: -0.44em;
-   color:  #E7625E;
-}
-a {
+  font-size: 1.414em;
+  hanging-punctuation: first;
+  text-indent: -0.44em;
   color: #E7625E;
-  text-decoration: none;
 }
 
 header h3 {
@@ -81,17 +74,60 @@ header h3 {
 }
 
 blockquote cite {
-    font-size: 0.75em;
-    color: #333
+  font-size: 0.75em;
+  color: #333
 }
 
 /*-------------------- STYLING LINKS --------------*/
+a {
+  color: #E7625E;
+  text-decoration: none;
+}
 
+a:hover {
+  color: #E75;
+  border-bottom: 1px dotted;
+}
 
+/*------------NAVIGATION------------------*/
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin: 0;
+  width: 100%;
+  padding: 1em 0;
+  font-size: 0.75em;
+  background-color: #E7625E;
+}
+
+nav ul {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+nav ul li {
+  display: inline;
+  margin: 20px;
+}
+
+nav a:link {
+  color: #222222;
+}
+
+nav a:visited {
+  color: orange;
+}
+
+nav a:hover {
+  border-bottom: none;
+  color: orange;
+}
 
 /*-------------------- FOOTER ---------------------*/
 footer {
-    text-align: center;
-    font-size: 0.707em;
-    padding: 2em 0 4em 0
+  text-align: center;
+  font-size: 0.707em;
+  padding: 2em 0 4em 0
 }
