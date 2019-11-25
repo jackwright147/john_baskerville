@@ -125,6 +125,38 @@ nav a:hover {
   color: orange;
 }
 
+/*------- TABLE STYLING -------*/
+
+table {
+  margin: auto;
+  display: table;
+  border-collapse: collapse;
+  border-spacing: 2px;
+  margin-bottom: 2em;
+  width: 100%;
+}
+
+caption {
+  margin-bottom: 1.5em;
+  text-transform: uppercase;
+}
+
+th {
+  color: #222222;
+  text-transform: uppercase;
+  font-weight: normal;
+  text-align: left;
+  background: #E7625E;
+}
+
+th, td {
+  padding: .6em;
+}
+
+table, td {
+  background: #AD4F4D;
+  border: 2px solid #222222;
+}
 /*-------------------- FOOTER ---------------------*/
 footer {
   text-align: center;
