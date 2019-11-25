@@ -17,6 +17,10 @@ Introduced Web Fonts
 18 November 2019
 Added links and navs
 
+- [Version 5](https://github.com/jackwright147/john_baskerville/blob/master/baskerville5.html)
+18 November 2019
+Added table and images
+
 # History of Type
 
 - [Version 1](https://github.com/jackwright147/john_baskerville/blob/master/history1.html)
