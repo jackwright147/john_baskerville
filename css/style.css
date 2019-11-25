@@ -53,6 +53,7 @@ h1 {
 
 h2 {
   font-size: 1.999em;
+  letter-spacing: .1em;
   margin-bottom: 0.6em;
   font-family: 'Spectral SC', serif;
 }
@@ -99,6 +100,7 @@ nav {
   padding: 1em 0;
   font-size: 0.75em;
   background-color: #E7625E;
+  box-shadow: 4px 3px 6px 4px black;
 }
 
 nav ul {
@@ -139,6 +141,7 @@ table {
 caption {
   margin-bottom: 1.5em;
   text-transform: uppercase;
+  letter-spacing: .2em;
 }
 
 th {
@@ -170,5 +173,9 @@ img {
 footer {
   text-align: center;
   font-size: 0.707em;
-  padding: 2em 0 4em 0
+  padding: 2em 0 4em 0;
+}
+
+footer a {
+  letter-spacing: .2em;
 }
