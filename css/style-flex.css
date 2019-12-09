@@ -20,22 +20,20 @@ body {
   font-family: 'Libre Baskerville', serif;
 }
 
+/*----------------- ADDING FLEXBOX ------------------*/
+
 article {
-    display: flex;
-}
+    display: flex;}
 
-.main {
-    flex: 4;
-    padding-right: 1em;
-}
 
-aside {
-    flex: 1;
-    font-size: 0.75em;
-    font-style: italic;
-    border-left: 1px solid #5032FF;
-    padding-left: 1em;
-}
+.main{ flex: 3;
+    padding-right: 1em }
+
+aside { flex: 1;
+        font-size: 0.75em;
+        font-style: italic;
+        border-left: 1px solid #E7625E;
+        padding-left: 1em}
 
 /*---------------- TYPOGRAPHY ---------------*/
 h1, h2, h3 {
