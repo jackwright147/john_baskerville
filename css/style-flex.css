@@ -21,19 +21,25 @@ body {
 }
 
 /*----------------- ADDING FLEXBOX ------------------*/
-
 article {
-    display: flex;}
+  display: flex;
+}
 
+.main {
+  padding-top: 60px;
+  padding-left: 30px;
+  flex: 3;
+  padding-right: 1em
+}
 
-.main{ flex: 3;
-    padding-right: 1em }
-
-aside { flex: 1;
-        font-size: 0.75em;
-        font-style: italic;
-        border-left: 1px solid #E7625E;
-        padding-left: 1em}
+aside {
+  padding-top: 60px;
+  flex: 1;
+  font-size: 0.75em;
+  font-style: italic;
+  border-left: 1px solid #E7625E;
+  padding-left: 1em
+}
 
 /*---------------- TYPOGRAPHY ---------------*/
 h1, h2, h3 {
@@ -143,7 +149,6 @@ nav a:hover {
 }
 
 /*------- TABLE STYLING -------*/
-
 table {
   margin: auto;
   display: table;
@@ -177,13 +182,13 @@ table, td {
 }
 
 /*--------- IMAGES ----------*/
-
 img {
   display: block;
   margin: 3em auto;
   padding: 0;
   max-width: 100%;
 }
+
 /*-------------------- FOOTER ---------------------*/
 footer {
   text-align: center;
