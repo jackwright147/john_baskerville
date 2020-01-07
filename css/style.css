@@ -79,6 +79,38 @@ blockquote cite {
   color: #333
 }
 
+header h3 {
+  font-style: italic
+}
+
+header p {
+  font-size: 1.35em
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 1em 0;
+}
+
+ul li {
+  margin: 10px;
+}
+
+.list-indent {
+  margin-left: 2em;
+}
+
+.list-head {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.red {
+  background: orangered
+}
+
 /*-------------------- STYLING LINKS --------------*/
 a {
   color: #E7625E;
@@ -128,7 +160,6 @@ nav a:hover {
 }
 
 /*------- TABLE STYLING -------*/
-
 table {
   margin: auto;
   display: table;
@@ -162,13 +193,13 @@ table, td {
 }
 
 /*--------- IMAGES ----------*/
-
 img {
   display: block;
   margin: 3em auto;
   padding: 0;
   max-width: 100%;
 }
+
 /*-------------------- FOOTER ---------------------*/
 footer {
   text-align: center;

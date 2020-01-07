@@ -199,3 +199,35 @@ footer {
 footer a {
   letter-spacing: .2em;
 }
+
+.connections {
+  position: relative;
+  margin: 0 auto;
+}
+
+.connections ul {
+  margin: 0;
+  padding: 0;
+}
+
+.connections li {
+  margin: 0 15px;
+  padding: 0;
+  list-style: none;
+  display: inline-block;
+}
+
+.connections a:link {
+  border-bottom: none;
+}
+
+.connections img {
+  opacity: 0.5;
+  border: none;
+}
+
+.connections a:hover img {
+  opacity: 1.0;
+  border-bottom: none;
+  transition: all 0.3s ease-in-out;
+}

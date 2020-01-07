@@ -29,5 +29,8 @@ Added table and images
 - [Version 2](https://github.com/jackwright147/john_baskerville/blob/master/history2.html)
 10 November 2019
 
-- [Version 2](https://github.com/jackwright147/john_baskerville/blob/master/history3.html)
+- [Version 3](https://github.com/jackwright147/john_baskerville/blob/master/history3.html)
+11 November 2019
+
+- [Version 4](https://github.com/jackwright147/john_baskerville/blob/master/history4.html)
 11 November 2019
